@@ -1,48 +1,47 @@
 # Wikipedia Text Classification<br>
-Classification of specific articles in Wikiepedia Dataset<br>
+Classification of specific articles in Wikiepedia Dataset
 
-list_Academic_Science = ["Academic degree","Alumnus","Amateur radio","Anthropology","Archaeology","Architecture","Astronomy","Atmosphere","Bioinformatics","Biology"
-,"Biotechnology"
-,"Botany"
-,"Chemistry"
-,"Climate"
-,"Ecology"
-,"Economics"
-,"Electronics"
-,"Engineering"
-,"Genealogy"
-,"Geography"
-,"Geology"
-,"Hydrology"
-,"Language",
-"Literature"
-,"Linguistics"
-,"Mathematics"
-,"Mechanics"
-,"Meteorology"
-,"Nuclear"
-,"Oceanography"
-,"Optics"
-,"Physics"
-,"Psychology"
-,"Research"
-,"Robotics"
-,"Society"
-,"Sociology"
-,"Statistics"
-,"Zoology"]
-<br>
-
-list_Business=["Business",
-"Accounting"
-,"Advertising"
-,"Advisory"
- ,"Audit"
-  ,  "Bank"
-,"Consultant"
- ,   "Finance"
-  ,  "Fund"
-   , " General Business"
+```
+list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology","Architecture","Astronomy","Atmosphere","Bioinformatics","Biology"
+    ,"Biotechnology"
+    ,"Botany"
+    ,"Chemistry"
+    ,"Climate"
+    ,"Ecology"
+    ,"Economics"
+    ,"Electronics"
+    ,"Engineering"
+    ,"Genealogy"
+    ,"Geography"
+    ,"Geology"
+    ,"Hydrology"
+    ,"Language",
+    "Literature"
+    ,"Linguistics"
+    ,"Mathematics"
+    ,"Mechanics"
+    ,"Meteorology"
+    ,"Nuclear"
+    ,"Oceanography"
+    ,"Optics"
+    ,"Physics"
+    ,"Psychology"
+    ,"Research"
+    ,"Robotics"
+    ,"Society"
+    ,"Sociology"
+    ,"Statistics"
+    ,"Zoology"]
+    list_Business=["Business",
+      "Accounting"
+    ,"Advertising"
+    ,"Advisory"
+    ,"Audit"
+    ,  "Bank"
+    ,"Consultant"
+    ,   "Finance"
+     ,  "Fund"
+    , " General Business"
     , "Insurance"
     ,"International business"
     , "Investment"
@@ -54,11 +53,10 @@ list_Business=["Business",
     ,"Stock exchange"
      ,"Tax"
     ,"Trade association"]
-<br>
+    ```
 
 
-
-list_Community=[ "Community"
+    list_Community=[ "Community"
     ,"Art",
     "Islam",
     "Christianity"
@@ -66,8 +64,8 @@ list_Community=[ "Community"
     ,"Association"
     ,"Committee"
     ,"Conference"
-   ,"Culture"
-    , "Development"
+    ,"Culture"
+     , "Development"
     ,"Education"
     ,"Forestry"
     , "History"
@@ -78,26 +76,24 @@ list_Community=[ "Community"
     ,"News"
     ,"Media"
      ,"Nonprofit organization"
-   ,"Religion"
-    , "School"
+    ,"Religion"
+     , "School"
      ,"Travel"
-    ,"Tourism"]
-<br>
+       ,"Tourism"]
 
 
-   list_Computing = [ "Computing"
-   ,"Artificial intelligence"
-    , "Computer security"
+    list_Computing = [ "Computing"
+    ,"Artificial intelligence"
+     , "Computer security"
      ,"Database"
      ,"Filename extension"
      ,"Gaming"
     ,"General Computing"
     ,"Hardware"
-   ,"Computer network"
-   ,"Software"
-,   "Technology"
-   ,  "Telecom"]
-<br>
+    ,"Computer network"
+    ,"Software"
+    ,"Technology"
+    ,  "Telecom"]
 
 
 
@@ -124,7 +120,6 @@ list_Community=[ "Community"
     ,"United Nations"
     ,"Federal government of the United States"]
 
-<br>
 
 
     list_Miscellaneous=[
