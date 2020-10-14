@@ -10,7 +10,9 @@ Wikipedia-Text-Classification
 And Run it, you can run it directly on "Google Colab"
 ```
 
-
+```
+Specific Articles:
+```
 
 ```
      list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology","Architecture",
