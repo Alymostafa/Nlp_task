@@ -3,9 +3,9 @@ Classification of specific articles in wikipedia Dataset
 ```
 If you want to Make prediction/inference directly, go to:
 
-Wikipedia-Text-Classification
-    | Prediction_Model
-       | Classification_Model.ipynb
+| Wikipedia-Text-Classification
+     | Prediction_Model
+        | Classification_Model.ipynb
        
 And Run it, you can run it directly on "Google Colab"
 ```
