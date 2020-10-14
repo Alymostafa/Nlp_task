@@ -69,7 +69,7 @@ Specific Articles:
     ,"Trade association"]
     ```
 
-
+```
     list_Community=[ "Community"
     ,"Art",
     "Islam",
@@ -95,7 +95,8 @@ Specific Articles:
      ,"Travel"
        ,"Tourism"]
 
-
+```
+```
     list_Computing = [ "Computing"
     ,"Artificial intelligence"
      , "Computer security"
@@ -108,7 +109,8 @@ Specific Articles:
     ,"Software"
     ,"Technology"
     ,  "Telecom"]
-
+```
+```
 
 
     list_Governmental= ["Government"
@@ -134,7 +136,8 @@ Specific Articles:
     ,"United Nations"
     ,"Federal government of the United States"]
 
-
+```
+```
 
     list_Miscellaneous=[
      "The Miscellaneous"
@@ -154,4 +157,4 @@ Specific Articles:
      ,"Science fiction"
      ,"Shipping line"
     ,"Sailing"]
-    
+    ```
