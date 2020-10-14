@@ -2,7 +2,8 @@
 Classification of specific articles in Wikiepedia Dataset
 
 ```
-list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology","Architecture","Astronomy","Atmosphere","Bioinformatics","Biology"
+list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology","Architecture",
+"Astronomy","Atmosphere","Bioinformatics","Biology"
     ,"Biotechnology"
     ,"Botany"
     ,"Chemistry"
