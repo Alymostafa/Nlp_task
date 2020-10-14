@@ -1,10 +1,21 @@
 # Wikipedia Text Classification<br>
 Classification of specific articles in wikipedia Dataset
+```
+If you want to Make prediction/inference directly, go to:
+
+Wikipedia-Text-Classification
+    | Prediction_Model
+       | Classification_Model.ipynb
+       
+And Run it, you can run it directly on "Google Colab"
+```
+
+
 
 ```
-list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology","Architecture",
-"Astronomy","Atmosphere","Bioinformatics","Biology"
-    ,"Biotechnology"
+     list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology","Architecture",
+    "Astronomy","Atmosphere","Bioinformatics","Biology"
+     ,"Biotechnology"
     ,"Botany"
     ,"Chemistry"
     ,"Climate"
