@@ -15,7 +15,8 @@ Specific Articles:
 ```
 
 ```
-     list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology","Architecture",
+     list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology"
+     ,"Architecture",
     "Astronomy","Atmosphere","Bioinformatics","Biology"
      ,"Biotechnology"
     ,"Botany"
