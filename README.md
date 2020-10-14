@@ -141,4 +141,3 @@ list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropol
      ,"Shipping line"
     ,"Sailing"]
     
-    <br>
