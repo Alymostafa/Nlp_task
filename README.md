@@ -1,5 +1,5 @@
 # Wikipedia Text Classification<br>
-Classification of specific articles in Wikiepedia Dataset
+Classification of specific articles in wikipedia Dataset
 
 ```
 list_Academic_Science = ["Academic degree","Alumnus","Amateur radio" ,"Anthropology","Archaeology","Architecture",
