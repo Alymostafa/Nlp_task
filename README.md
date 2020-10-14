@@ -67,7 +67,7 @@ Specific Articles:
     ,"Stock exchange"
      ,"Tax"
     ,"Trade association"]
-    ```
+```
 
 ```
     list_Community=[ "Community"
@@ -96,6 +96,7 @@ Specific Articles:
        ,"Tourism"]
 
 ```
+
 ```
     list_Computing = [ "Computing"
     ,"Artificial intelligence"
@@ -110,6 +111,7 @@ Specific Articles:
     ,"Technology"
     ,  "Telecom"]
 ```
+
 ```
 
 
@@ -137,6 +139,7 @@ Specific Articles:
     ,"Federal government of the United States"]
 
 ```
+
 ```
 
     list_Miscellaneous=[
